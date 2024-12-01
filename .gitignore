@@ -12,3 +12,4 @@ fatfs/*.a
 codehandler/*.h
 
 devkit
+*.nix
