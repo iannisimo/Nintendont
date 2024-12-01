@@ -13,3 +13,4 @@ codehandler/*.h
 
 devkit
 *.nix
+.envrc
